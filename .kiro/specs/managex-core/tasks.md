@@ -15,10 +15,12 @@
   - Define User entity with TypeORM decorators and validation
   - Implement password hashing utilities using bcrypt
   - Create UserRepository with basic CRUD operations
+
   - Write unit tests for User entity and repository
   - _Requirements: 1.1, 1.2, 5.1, 5.2_
 
-- [ ] 2.2 Build JWT authentication service
+- [x] 2.2 Build JWT authentication service
+
   - Install and configure Passport.js with JWT strategy
   - Implement AuthService with login, register, and token validation methods
   - Create JWT guards and decorators for route protection
