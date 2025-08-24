@@ -8,6 +8,8 @@
   - Set up database connection and migration system
   - _Requirements: 1.1, 5.1_
 
+
+
 - [ ] 2. Implement core authentication system
 - [ ] 2.1 Create User entity and authentication infrastructure
   - Define User entity with TypeORM decorators and validation
