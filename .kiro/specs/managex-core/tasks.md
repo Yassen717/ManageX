@@ -21,13 +21,16 @@
 
 - [x] 2.2 Build JWT authentication service
 
+
   - Install and configure Passport.js with JWT strategy
   - Implement AuthService with login, register, and token validation methods
   - Create JWT guards and decorators for route protection
   - Write unit tests for authentication service
   - _Requirements: 1.1, 1.2, 1.3, 1.4_
 
-- [ ] 2.3 Create authentication controllers and endpoints
+- [x] 2.3 Create authentication controllers and endpoints
+
+
   - Implement AuthController with login, register, and logout endpoints
   - Add request validation pipes and DTOs for authentication
   - Implement proper error handling for authentication failures
